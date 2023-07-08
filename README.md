@@ -1,3 +1,3 @@
 #Git Basics
 
-Here we will inspec the basics of Git. 
+Practice repo for learning git workflow!
