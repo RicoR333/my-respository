@@ -20,6 +20,6 @@ lfg second try solo!
 #
 lfg third try solo!!
 #
-moneyshot!
+money!
 #
 fifthTry!
